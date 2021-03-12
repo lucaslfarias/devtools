@@ -1,5 +1,5 @@
 # Discord
-Install Discord on Fedora
+Install Discord on Fedora:
 
 1. Open a terminal window as your user.
 1. Be in your home directory ("cd" with no arguments should take you there if you aren't already) and create a folder Discord: ***mkdir Discord***
