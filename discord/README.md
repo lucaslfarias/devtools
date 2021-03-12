@@ -1,4 +1,4 @@
-# discord
+# Discord
 Install Discord on Fedora
 
 1. Open a terminal window as your user.
